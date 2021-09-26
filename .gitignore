@@ -1,0 +1,15 @@
+.cache
+.config
+.git
+.gnupg
+.npm
+doc/
+email_templates/
+logs/
+node_modules/
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.profile
+.sudo_as_admin_successful
