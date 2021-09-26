@@ -1,0 +1,5 @@
+2021-09-16 18:42:16 API request to tradeogre has failed: Error: Client network socket disconnected before secure TLS connection was established
+2021-09-16 19:12:08 API request to tradeogre has failed: Error: getaddrinfo EAI_AGAIN tradeogre.com tradeogre.com:443
+2021-09-16 19:12:09 API request to tradeogre has failed: Error: getaddrinfo EAI_AGAIN tradeogre.com tradeogre.com:443
+2021-09-26 15:28:47 API request to tradeogre has failed: Error: getaddrinfo EAI_AGAIN tradeogre.com tradeogre.com:443
+2021-09-26 15:28:47 API request to tradeogre has failed: Error: getaddrinfo EAI_AGAIN tradeogre.com tradeogre.com:443

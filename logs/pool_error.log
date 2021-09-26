@@ -1,0 +1,3 @@
+2021-09-11 18:36:10 (Thread 1) Could not start server listening on port 9999 (SSL): SSL certificate file not found (configuration error)
+2021-09-11 19:09:25 (Thread 1) Invalid cryptonight algorithm: cryptonight_light
+2021-09-13 21:59:28 (Thread 1) Error submitting block at height 978154 from EBnD8M3pXgZX7vTjKhptVnUGC8r3NspxcXyHstghjN4rQH7zA7E11qK1LDeXtBr8t35AuP7TfCkSmBq1yW5qjAgvEYS4sUB@::ffff:223.207.225.147, share type: "trusted" - {"code":-7,"message":"Block not accepted"}

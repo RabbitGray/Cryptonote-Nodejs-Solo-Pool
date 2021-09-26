@@ -1,0 +1,247 @@
+2021-09-11 20:11:57
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:02
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:06
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:10
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:14
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:19
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:23
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:27
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:32
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:36
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:39
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:56
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2021-09-11 20:12:59
+TypeError: blocks.map is not a function
+    at /home/pool/pool/lib/blockUnlocker.js:120:31
+    at nextTask (/home/pool/pool/node_modules/async/dist/async.js:5756:27)
+    at next (/home/pool/pool/node_modules/async/dist/async.js:5764:13)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at /home/pool/pool/lib/blockUnlocker.js:113:5
+    at err (/home/pool/pool/node_modules/async/dist/async.js:2926:29)
+    at wrapper (/home/pool/pool/node_modules/async/dist/async.js:271:20)
+    at iteratorCallback (/home/pool/pool/node_modules/async/dist/async.js:496:17)
+    at /home/pool/pool/node_modules/async/dist/async.js:324:20
+    at iteratee (/home/pool/pool/node_modules/async/dist/async.js:2923:17)
+    at /home/pool/pool/lib/blockUnlocker.js:104:6
+    at /home/pool/pool/lib/apiInterfaces.js:66:3
+    at IncomingMessage.<anonymous> (/home/pool/pool/lib/apiInterfaces.js:41:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
